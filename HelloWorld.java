@@ -42,7 +42,7 @@ public static void main(String[] args) {
 
 System.out.println("Hello World! - Andre Goncalves, Brazil ");
 System.out.println("Hello World! Lucas Gustavo, Brazil ");
-    
+System.out.println("Hello World! Gantogtokh Battumur, Mongolia ");    
 calculator_sum();    
 caclulator_multiplication();
 
