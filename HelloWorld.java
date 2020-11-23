@@ -13,9 +13,7 @@ public class HelloWorld {
  }
     public static void main(String[] args) {
       System.out.println("This is main program");
-      GantogtokhMethod();
-              System.out.println("This is main program");
-      GantogtokhMethod();
+         GantogtokhMethod();
       System.out.println("Please enter a number");
 
 
