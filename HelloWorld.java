@@ -61,4 +61,4 @@ System.out.println("Please enter another number");
 int num4 = myKb.nextInt();
 System.out.println("The divide  of " + num3 + " and " + num4 + " is " + (num3 / num4));
    }
-}
+     }
