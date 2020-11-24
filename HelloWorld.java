@@ -36,20 +36,13 @@ System.out.println("The multiplication of " + num1 + " and " + num2 + " is " + (
 
 }
     
-static void GantogtokhMethod(){
-    System.out.println("My name is Gantogtokh Battumur, this is my code");
- }   
-    
+
 public static void main(String[] args) {
     
 
 System.out.println("Hello World! - Andre Goncalves, Brazil ");
 System.out.println("Hello World! Lucas Gustavo, Brazil ");
 System.out.println("Hello World! Gantogtokh Battumur, Mongolia "); 
-System.out.println("Hello World! Frank Willian Brazil, Brazil "); 
-
-System.out.println("This is main program");
-GantogtokhMethod();
 System.out.println("Please enter a number");
 Scanner myKb = new Scanner(System.in);
 int num3 = myKb.nextInt();
