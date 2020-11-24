@@ -47,14 +47,10 @@ calculator_sum();
 caclulator_multiplication();
 
 }
-     public class Method {
- static void GantogtokhMethod(){
-    System.out.println("My name is Gantogtokh Battumur, this is my code");
- }
+    
+//Method done by Gantogtokh Battumur 
     public static void main(String[] args) {
-      System.out.println("This is main program");
-          GantogtokhMethod();
-      System.out.println("Please enter a number");
+            System.out.println("Please enter a number");
 Scanner myKb = new Scanner(System.in);
 int num3 = myKb.nextInt();
 System.out.println("Please enter another number");
