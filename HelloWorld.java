@@ -47,16 +47,9 @@ calculator_sum();
 caclulator_multiplication();
 
 }
-      public class Method {
- static void GantogtokhMethod(){
   
- System.out.println("My name is Gantogtokh Battumur, this is my code");
- }
     public static void main(String[] args) {
-      System.out.println("This is main program");
-      GantogtokhMethod();
-              System.out.println("This is main program");
-      GantogtokhMethod();
+     
       System.out.println("Please enter a number");
 
 
